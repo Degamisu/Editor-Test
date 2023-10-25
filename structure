@@ -1,0 +1,8 @@
+n64_dev_ide/
+├── src/
+│   ├── main.rs
+│   └── n64_asm.rs
+├── build.rs
+├── Cargo.toml
+└── .vscode/
+    └── launch.json

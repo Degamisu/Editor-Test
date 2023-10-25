@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "N64 Debug",
+            "request": "launch",
+            "program": "${workspaceFolder}/path/to/your/n64/rom",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "stopOnEntry": false,
+            "preLaunchTask": "build"
+        }
+    ]
+}

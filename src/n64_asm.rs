@@ -1,0 +1,1 @@
+// Implement syntax highlighting logic for N64 ASM files here
